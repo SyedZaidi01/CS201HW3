@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1557171347 source:e:\projects and courses\cs-201 ii\hw_3\homework3\book.cpp
+	<iostream>
+	"Book.h"
+	<string>
+	<iomanip>
+
+1557171968 e:\projects and courses\cs-201 ii\hw_3\homework3\book.h
+	"Student.h"
+	<string>
+
+1557117295 source:e:\projects and courses\cs-201 ii\hw_3\homework3\student.cpp
+	<iostream>
+	"Student.h"
+	<string>
+
+1557117289 e:\projects and courses\cs-201 ii\hw_3\homework3\student.h
+	<string>
+	<iostream>
+
+1557175690 source:e:\projects and courses\cs-201 ii\hw_3\homework3\librarysystem.cpp
+	"LibrarySystem.h"
+	<iostream>
+	<iomanip>
+
+1557173098 e:\projects and courses\cs-201 ii\hw_3\homework3\librarysystem.h
+	<iostream>
+	<string>
+	"Book.h"
+	"Student.h"
+
+1557175510 source:e:\projects and courses\cs-201 ii\hw_3\homework3\main.cpp
+	"LibrarySystem.h"
+
